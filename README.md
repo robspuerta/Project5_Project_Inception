@@ -1,15 +1,11 @@
 # Project Inception
-(foto)
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Github%20banner.png" /> 
 
+Any project, as an adventure with your friends, requieres everybody to be align to what to expect in this journey, some might be focusing on being compliance with a new law, others on sustainable growth, optimizee internal processes or even on improving customer experience (check [22 types of business objectives to measure success](https://asana.com/resources/business-objectives-examples)). Having all this in consideration....
 
+### How do we align stakeholders expections?
 
-Any project, as an adventure, can't be something we create 
-
-###
-<img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Southpark.jpg" width="500"/> 
-
-Project inception definition
+Luckily, Agile presents a solution like a <ins "pre-phase" stage where gathering stakeholders is required to determine key aspects /ins> like objectives, scope, expected delivered value and how to measure it; and some others aspects like high-level requirements. This excercise might take a whole business day, but believe me, it is better to take one day to understand what we expect from this project than one day to explain why it fails to fullfill unknown expectations.
 
 > "quote"
 
