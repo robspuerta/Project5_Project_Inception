@@ -5,7 +5,7 @@ Any project, as an adventure with your friends, requieres everybody to be align 
 
 ### How do we align stakeholders expections?
 
-Luckily, Agile presents a solution like a <ins> "pre-phase" stage where gathering stakeholders is required to determine key aspects </ins> like objectives, scope, expected delivered value and how to measure it; and some others aspects like high-level requirements. This excercise might take a whole business day, but believe me, it is better to take one day to understand what we expect from this project than one day to explain why it fails to fullfill unknown expectations.
+Luckily, Agile presents a solution like a <ins> "pre-phase" stage where gathering stakeholders is required to determine key aspects</ins> like objectives, scope, expected delivered value and how to measure it; and some others aspects like high-level requirements. This excercise might take a whole business day, but believe me, it is better to take one day to understand what we expect from this project than one day to explain why it fails to fullfill unknown expectations.
 
 > "quote"
 
