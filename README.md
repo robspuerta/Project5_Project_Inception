@@ -11,25 +11,32 @@ Luckily, Agile presents a solution like a <ins> "pre-phase" stage where gatherin
 
 ## Practical exercise: Online Marketplace
 
-A Marketplace is a web-based platform where a customer can buy from different online stores. This is the case for MercadoLibre or Amazon. Now, lets try to imagine we have to create this platform from the beginning or just want to get to know the on-going produc.
+A Marketplace is a web-based platform where a customer can buy from different online stores. This is the case for MercadoLibre or Amazon. From the business / technical point of views, it has some complexities like different type of Clients, each one with different customer's paths, different technologies involved, legal considerations, competition and more.
 
-### Canvas Business Model
+Now, imagine we have to create this platform from the beginning or just want to get to know the on-going product. I have personally gathered this 5 tools to make the Project Inception, but these are not mandatory, only #2 and #3 are highly recommended on Agile framework, but each one of them has their advantages. 
+
+### #1. Business Model Canvas
+This tool creates a visual representation of our business model, aligning **WHAT we do, HOW we do it and WHO are our clients**. This is a very interesting tool I have used with strategic and core teams (not all stakeholders) and the most common result is understanding that everybody has different perspective on many items, especially on "Clients" and "Services".
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Business%20Model%20Canvas%20-%20Etsy.jpg" width="500"/>
 
-### Business Objective
+### #2. Impact Mapping
 
-
-### Impact Mapping
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Impact%20Mapping.png" width="500"/>
 
-### User Story Mapping
+### #3. User Story Mapping
+
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/User%20Story%20Mapping.jpg" width="500"/>
 
-### Customer Journey Map
+### #4. Project Objectives Vs Business Objective
+The idea is to link the Project Objectives Vs Business Objective by using a simple matrix, and using a relative ponderation (i.e. 1 has minimum impact and 5 direct impact). Then repeat the excersice but now linking User Stories from (#2 Impact mapping) and Project Objetives. I haven't found proper documentation about this excersise but it is a great idea to align and match the organization strategic goals with the product strategy, and to understand how each requirement has an impact in the company. This can be done with all the stake holders right after Impact and User Story Mapping, or just with the core team if the workshop exceed the time.
+
+
+
+### #5. Customer Journey Map
 
 
 Conclusion y responder la pregunta
 
-Let me know in the comments how would you align expectations using Agile as a framework.
+Let me know in the comments how would you align expectations or get to fully know a product from the inside.
 
 <sub>This was an educational exercise. Check more posts on my [GitHub](https://github.com/robspuerta) and more about me on [Linkedin](https://www.linkedin.com/in/robin-puerta/).</sub>
