@@ -30,7 +30,10 @@ This tool creates a visual representation of our business model, aligning **WHAT
 ### #4. Project Objectives Vs Business Objective
 The idea is to link the Project Objectives Vs Business Objective by using a simple matrix, and using a relative ponderation (i.e. 1 has minimum impact and 5 direct impact). Then repeat the excersice but now linking User Stories from (#2 Impact mapping) and Project Objetives. I haven't found proper documentation about this excersise but it is a great idea to align and match the organization strategic goals with the product strategy, and to understand how each requirement has an impact in the company. This can be done with all the stake holders right after Impact and User Story Mapping, or just with the core team if the workshop exceed the time.
 
+<img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/BusinessObjVsProductObj.jpg" width="400"/>
 
+
+<img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/ProductObjVsUserStory.jpg" width="400"/>
 
 ### #5. Customer Journey Map
 
