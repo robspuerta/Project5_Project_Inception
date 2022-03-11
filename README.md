@@ -20,7 +20,7 @@ This tool creates a visual representation of our business model, aligning **WHAT
 
 ### #2. Impact Mapping
 
-It's a mind map that links **WHY** are we doing it, **WHO** is involved, **How** positively impact them, and **WHAT** is needed to achieve it. This can be done as a workshop with key stakeholders and the result is a great way to visualize roadmaps, explain how deliverables connect to user needs, and communicate how user outcomes relate to higher-level organizational goals.
+It's a mind map that links **WHY** are we doing it, **WHO** is involved, **HOW** positively impact them, and **WHAT** is needed to achieve it. This can be done as a workshop with key stakeholders and the result is a great way to visualize roadmaps, explain how deliverables connect to user needs, and communicate how user outcomes relate to higher-level organizational goals.
 
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Impact%20Mapping.png" width="500"/>
 
