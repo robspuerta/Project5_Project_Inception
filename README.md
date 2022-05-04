@@ -16,6 +16,7 @@ Now, imagine we have to create this platform from the beginning or just want to 
 ### #1. Business Model Canvas
 
 This tool creates a visual representation of our business model, aligning **WHAT we do, HOW we do it and WHO are our clients**. This is a very interesting tool I have used with strategic and core teams (not all stakeholders) and the most common result is understanding that everybody has different perspectives on many items, especially on "Clients" and "Services".
+
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Business%20Model%20Canvas%20-%20Etsy.jpg" width="500"/>
 
 ### #2. Impact Mapping
