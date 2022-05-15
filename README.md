@@ -1,9 +1,9 @@
 # Project Inception (--Under Construction--)
 <img src="https://github.com/robspuerta/Project5_Project_Inception/blob/main/Github%20banner.png" /> 
 
-Any project, as an adventure with your friends, requires everybody to align to what to expect in this journey. Some might be focusing on being compliant with a new law, others on sustainable growth, optimizing internal processes, or even on improving customer experience (check [22 types of business objectives to measure success](https://asana.com/resources/business-objectives-examples)). Having all this in consideration...
+Any project, as an adventure with your friends, requires everybody to be aligned on what to expect in this journey. Some might be focusing on being compliant with a new law, others on sustainable growth, optimizing internal processes, or even on improving customer experience (check [22 types of business objectives to measure success](https://asana.com/resources/business-objectives-examples)). Having all this in consideration...
 
-### How do we align stakeholders' expectations?
+### How do we align stakeholders' expectations on the upoming product?
 
 Luckily, Agile presents a solution like a <ins> "pre-phase" stage where gathering stakeholders is required to determine key aspects</ins> like objectives, scope, roadmap, expected delivered value and how to measure it; and some other aspects like high-level user stories and requirements. This exercise might take a whole business day, but believe me, it is better to take one day to understand what we expect from this project than one day to explain why it fails to fulfill unknown expectations.
 
