@@ -12,7 +12,7 @@ Luckily, Agile presents a solution like a <ins> "pre-phase" stage where gatherin
 A Marketplace is a web-based platform where customers can buy from different online stores. This is the case for MercadoLibre or Amazon. From the business / technical point of view, it has some complexities like different types of Clients, each with their customer paths, different technologies involved, legal considerations, competition, and more.
 
 Now, imagine we have to create this platform from the beginning or just want to get to know the ongoing product. I have personally gathered these **5** tools to make the Project Inception, but these are not mandatory, only #2 and #3 are highly-recommended on the Agile framework, but each one of them has its advantages. 
-
+### #0. Exccutive Summary
 ### #1. Business Model Canvas
 
 This tool creates a visual representation of our business model, aligning **WHAT we do, HOW we do it and WHO are our clients**. This is a very interesting tool I have used with strategic and core teams (not all stakeholders) and the most common result is understanding that everybody has different perspectives on many items, especially on "Clients" and "Services".
